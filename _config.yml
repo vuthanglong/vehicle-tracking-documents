@@ -57,6 +57,8 @@ footer:
       icon: 'fab fa-fw fa-facebook-square'
       url: 'https://fb.com/longthangvuz'
 
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
